@@ -1,2 +1,2 @@
 # agile-practitioner-library
-agileguy.xyz backup
+agileguy.xyz
